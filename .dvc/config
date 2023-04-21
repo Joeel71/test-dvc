@@ -1,0 +1,4 @@
+[core]
+    remote = amazon_remote
+['remote "amazon_remote"']
+    url = s3://dvc-test01/amazon_remote
