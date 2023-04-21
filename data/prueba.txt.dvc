@@ -1,0 +1,4 @@
+outs:
+- md5: 607dccc7a2eb3a234dbe891a2b83735b
+  size: 30
+  path: prueba.txt
